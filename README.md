@@ -23,7 +23,12 @@ Ideaboard app is using a Rails 5.1 API and a front-end React app.
 * Tech 3 - version 3.0
 
 ## Setup
-Describe how to install / setup your local environement / add link to demo version.
+```
+$ git clone https://github.com/lapinskap/ideaboard-react-rails/
+$ cd bank-app
+$ bundle install
+$ rails s
+```
 
 ## Code Examples
 Show examples of usage:
