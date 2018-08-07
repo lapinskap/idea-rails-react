@@ -27,7 +27,10 @@ Ideaboard app is using a Rails 5.1 API and a front-end React app.
 $ git clone https://github.com/lapinskap/ideaboard-react-rails/
 $ cd ideaboard-react-rails
 $ bundle install
-$ rails s
+```
+We can start rails server on port 3001:
+```
+$ rails s -p 3001 
 ```
 
 ## Code Examples
